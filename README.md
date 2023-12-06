@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Zahaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahaanshapoorjee)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zahaanshapoorjee/zahaanshapoorjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
